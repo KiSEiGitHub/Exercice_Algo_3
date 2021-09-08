@@ -13,7 +13,7 @@ class Cercle:
 
 
 def main():
-    rayon = Cercle(7)
+    rayon = Cercle(2)
 
     print(f'Surface = {round(rayon.surface(), 2)}')
     print(f'Périmètre = {round(rayon.perimetre(), 2)}')
