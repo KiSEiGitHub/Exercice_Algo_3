@@ -1,1 +1,1 @@
-https://maths-bac.com/maths-2de/menu-exercices-bac-exercices.html
+https://www.tresfacile.net/tp-python-exercices-corriges-dalgorithmique-python-les-bases/
