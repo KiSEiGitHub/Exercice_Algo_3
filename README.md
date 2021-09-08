@@ -1,1 +1,1 @@
-# Exercice_Algo_3
+https://maths-bac.com/maths-2de/menu-exercices-bac-exercices.html
