@@ -1,16 +1,15 @@
 def main():
-    while True:
-        try:
-            v = {'a', 'e', 'y', 'u', 'i', 'o'}
-            n = input("Entrer mot: ")
+    s = "coucou"
+    n = len(s)
 
-            flag = sum(n[i] in v for i in range(len(v)))
+    first = s[0]
+    last = s[n - 1]
 
-            print(f"Nombre de voyelles dans {n}: {flag}")
+    s1 = s[1:n - 1]
 
-            break
-        except IndexError:
-            print('Une erreur est survenue')
+    s2 = last + s1 + first
+    print(s2)
+
 
 if __name__ == '__main__':
     main()
